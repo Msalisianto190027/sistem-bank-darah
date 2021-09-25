@@ -6,6 +6,8 @@ fitur sisitem ini
 1. menampilkan stokdarah 
 2. menampilakan wilayah donor masal
 3. mendaftarkan pendonor 
+4. mendapatkan poin bagi pendonor 
+5. ada sistem chat buat kordinasi
 
 # untuk bahasa pemrogramnya sendiri menggunaka 
 1. php 
